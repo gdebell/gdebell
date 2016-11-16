@@ -3296,7 +3296,6 @@
 		.wrapper:before, .wrapper:after {
 			background-repeat: no-repeat;
 			background-size: 100% 100%;
-			content: '';
 			display: block;
 			height: 6.5em;
 			position: absolute;
