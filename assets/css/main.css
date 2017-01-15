@@ -1695,6 +1695,14 @@
 				font-size: 12pt;
 			}
 
+			.smallSize {
+				font-size: 10pt;
+			}
+
+			.extraSmall {
+				font-size: 9pt;
+			}
+
 		}
 
 	a {
